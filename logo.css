@@ -1,0 +1,69 @@
+body {
+	background-color: #ecf0f1;
+}
+@font-face {
+	font-family: Brush;
+	src: url(BRUSHSCI.ttf);
+}
+.logo {
+	width: 25%;
+	margin-left: 35%;
+}
+.merah {
+	background-color: #f6002e;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.biru {
+	background-color: #4461c2;
+}
+.kuning {
+	background-color: #f1d900;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.sleret {
+	height: 50px;
+}
+.tulisan {
+	background-color: #fff;
+	padding: 7px;
+	width: 70%;
+	text-align: center;
+	margin-top: -120px;
+	margin-left: 14%;
+	border-radius: 90px;
+}
+.tulisanDalam {
+	border: 5px solid #f6002e;
+	padding: 0px;
+	border-radius: 90px;
+	color: #4461c2;
+	font-family: Brush;
+	font-size: 50px;
+}
+
+.o {
+	display: inline-block;
+	width: 22px;
+	height: 22px;
+	margin-left: -14px;
+	margin-right: -14px;
+	border-radius: 30px;
+	background-color: #f6002e;
+	text-align: center;
+}
+.o-2,.o-3 {
+	width: 50.5%;
+	height: 11px;
+	margin-left: 14%;
+	margin-top: 3px;
+	border: 2px solid #fff;
+	border-radius: 50px;
+}
+.o-3 {
+	height: 5px;
+	border: 1px solid #fff;
+	margin-top: 2px;
+	margin-left: 2px;
+}
